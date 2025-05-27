@@ -56,6 +56,17 @@ const Booking = () => {
                   <p>Finalize o seu agendamento</p>
                 </div>
               </div>
+              <div className="step step-payment">
+                <div className="step-number">4</div>
+                <div className="step-content">
+                  <h4>Confirme com Pagamento</h4>
+                  <p>Transfira 50% do valor via MBWay para garantir a marcação</p>
+                  <div className="mbway-info">
+                    <img src="/images/mbway.png" alt="MBWay" className="mbway-logo" />
+                    <span className="mbway-number">+351 913 267 915</span>
+                  </div>
+                </div>
+              </div>
             </div>
 
             <div className="booking-benefits">
@@ -91,6 +102,34 @@ const Booking = () => {
               <div className="booking-note">
                 <p><i className="fas fa-info-circle"></i> 
                 Será redirecionada para a nossa agenda online segura onde pode escolher o serviço, data e horário que mais lhe convém.</p>
+              </div>
+
+              {/* Informação de Pagamento */}
+              <div className="payment-info">
+                <h4>💳 Confirmação de Marcação</h4>
+                <div className="payment-details">
+                  <div className="payment-step">
+                    <i className="fas fa-mobile-alt"></i>
+                    <div>
+                      <strong>Após marcar online:</strong>
+                      <p>Transfira 50% do valor do serviço via MBWay para confirmar a sua marcação</p>
+                    </div>
+                  </div>
+                  
+                  <div className="mbway-payment">
+                    <img src="/images/mbway.png" alt="MBWay" className="mbway-logo-large" />
+                    <div className="mbway-details">
+                      <span className="mbway-label">Número MBWay:</span>
+                      <span className="mbway-number-large">+351 913 267 915</span>
+                    </div>
+                  </div>
+
+                  <div className="payment-note">
+                    <p><i className="fas fa-shield-alt"></i> 
+                    <strong>Importante:</strong> A marcação só fica confirmada após o pagamento de 50% do valor. 
+                    O restante valor é pago no dia do serviço.</p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
