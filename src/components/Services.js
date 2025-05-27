@@ -7,35 +7,35 @@ const Services = () => {
       title: 'Verniz Gel',
       description: 'Manicure com verniz gel duradouro e brilhante',
       duration: '45 min',
-      image: '/images/2.jpeg'
+      image: '/images/verniz1.jpeg'
     },
     {
       icon: '🔧',
       title: 'Manutenção de Gel/Acrílico',
       description: 'Manutenção profissional das suas unhas',
       duration: '90 min',
-      image: '/images/3.jpeg'
+      image: '/images/extensao3.jpeg'
     },
     {
       icon: '✨',
       title: 'Extensão de Gel',
       description: 'Alongamento natural com gel de qualidade',
       duration: '120 min',
-      image: '/images/4.jpeg'
+      image: '/images/extensao1.jpeg'
     },
     {
       icon: '💎',
       title: 'Extensão de Acrílico',
       description: 'Unhas perfeitas com técnica acrílica',
       duration: '120 min',
-      image: '/images/5.jpeg'
+      image: '/images/extensao2.jpeg'
     },
     {
       icon: '🦶',
       title: 'Spa dos Pés',
       description: 'Pedicure relaxante e revitalizante',
       duration: '75 min',
-      image: '/images/6.jpeg'
+      image: '/images/spa1.jpeg'
     }
   ];
 

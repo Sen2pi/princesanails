@@ -23,7 +23,7 @@ const Contact = () => {
               <i className="fas fa-phone"></i>
               <div>
                 <h4>Telefone</h4>
-                <p>+351 926 703 934</p>
+                <p>+351 913 267 915</p>
               </div>
             </div>
             
@@ -42,7 +42,7 @@ const Contact = () => {
               <a href="https://www.facebook.com/share/16NKxWKZn3/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-facebook"></i>
               </a>
-              <a href="https://wa.me/351926703934" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/351913267915" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-whatsapp"></i>
               </a>
             </div>
