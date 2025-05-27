@@ -13,28 +13,28 @@ const Services = () => {
       icon: '🔧',
       title: 'Manutenção de Gel/Acrílico',
       description: 'Manutenção profissional das suas unhas',
-      duration: '60 min',
+      duration: '90 min',
       image: '/images/3.jpeg'
     },
     {
       icon: '✨',
       title: 'Extensão de Gel',
       description: 'Alongamento natural com gel de qualidade',
-      duration: '90 min',
+      duration: '120 min',
       image: '/images/4.jpeg'
     },
     {
       icon: '💎',
       title: 'Extensão de Acrílico',
       description: 'Unhas perfeitas com técnica acrílica',
-      duration: '90 min',
+      duration: '120 min',
       image: '/images/5.jpeg'
     },
     {
       icon: '🦶',
       title: 'Spa dos Pés',
       description: 'Pedicure relaxante e revitalizante',
-      duration: '60 min',
+      duration: '75 min',
       image: '/images/6.jpeg'
     }
   ];
