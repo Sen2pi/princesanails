@@ -18,7 +18,7 @@
 
 ## ✨ Sobre o Projeto
 
-**Princesa Nails** é um website moderno e elegante desenvolvido para um salão de unhas premium localizado em Golães, Braga. O site oferece uma experiência completa de agendamento online, galeria de trabalhos e informações sobre os serviços disponíveis.
+**Princesa Nails** é um website moderno e elegante desenvolvido para um salão de unhas premium localizado em Lomar, Braga. O site oferece uma experiência completa de agendamento online, galeria de trabalhos e informações sobre os serviços disponíveis.
 
 ### 🎨 Design
 - **Paleta de cores**: Tons rosados vintage, branco e bronze
@@ -280,7 +280,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   
   **Princesa Nails**
   
-  📍 Golães, Braga, Portugal
+  📍 Lomar, Braga, Portugal
   
   📱 [+351 913 267 915](tel:+351913267915) • 📧 [stedilanda@gmail.com](mailto:stedilanda@gmail.com)
   
