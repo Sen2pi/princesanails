@@ -63,7 +63,7 @@ const Booking = () => {
                   <p>Transfira 50% do valor via MBWay para garantir a marcação</p>
                   <div className="mbway-info">
                     <img src="/images/mbway.png" alt="MBWay" className="mbway-logo" />
-                    <span className="mbway-number">+351 913 267 915</span>
+                    <span className="mbway-number">+351  926 703 934</span>
                   </div>
                 </div>
               </div>
@@ -112,7 +112,7 @@ const Booking = () => {
                     <i className="fas fa-mobile-alt"></i>
                     <div>
                       <strong>Após marcar online:</strong>
-                      <p>Transfira 50% do valor do serviço via MBWay para confirmar a sua marcação</p>
+                      <p>Transfira 50% do valor do serviço via MBWay para confirmar a sua marcação com o seu bookID como descrição.</p>
                     </div>
                   </div>
                   
@@ -120,7 +120,7 @@ const Booking = () => {
                     <img src="/images/mbway.png" alt="MBWay" className="mbway-logo-large" />
                     <div className="mbway-details">
                       <span className="mbway-label">Número MBWay:</span>
-                      <span className="mbway-number-large">+351 913 267 915</span>
+                      <span className="mbway-number-large">+351  926 703 934</span>
                     </div>
                   </div>
 
