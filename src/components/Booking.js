@@ -99,11 +99,11 @@ const Booking = () => {
         <div className="booking-alternatives" data-aos="fade-up">
           <h3>Outras Formas de Marcar:</h3>
           <div className="contact-methods">
-            <a href="https://wa.me/351926703934" className="contact-method whatsapp">
+            <a href="https://wa.me/351913267915" className="contact-method whatsapp">
               <i className="fab fa-whatsapp"></i>
               <span>WhatsApp</span>
             </a>
-            <a href="tel:+351926703934" className="contact-method phone">
+            <a href="tel:+351913267915" className="contact-method phone">
               <i className="fas fa-phone"></i>
               <span>Telefone</span>
             </a>

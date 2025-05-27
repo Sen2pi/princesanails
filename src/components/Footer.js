@@ -24,7 +24,7 @@ const Footer = () => {
           
           <div className="footer-contact">
             <h4>Contacto</h4>
-            <p><i className="fas fa-phone"></i> +351 926 703 934</p>
+            <p><i className="fas fa-phone"></i> +351 913 267 915</p>
             <p><i className="fas fa-envelope"></i> stedilanda@gmail.com</p>
             <p><i className="fas fa-map-marker-alt"></i> Rua Dom João de Castro , 4705 Lomar, Braga</p>
           </div>
